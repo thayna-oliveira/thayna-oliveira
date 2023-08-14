@@ -1,3 +1,7 @@
-### Hi there 👋
+### Hello 👋
 
-I'm a front-end developer passionate about ✨ coding and design ✨. I’ve been working as a developer since 2014, so i'm experienced in Angular, React, Typescript, HTML & CSS, Design System, and so on.
+My name is **Thayna Oliveira** (*pronouns: she/her*) and I am a front-end developer passionate about ✨ coding and design ✨.
+ 
+[🔗 linkedin](https://www.linkedin.com/in/oliveira-thayna/)
+
+---
